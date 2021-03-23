@@ -1,6 +1,6 @@
 # PersianDataPicker
 
-A class to convert solar date to AD and vice versa.
+A class to convert geregori date to shamsi and vice versa.
 
 In this project, the problems of jumping in certain years have been solved.
 
